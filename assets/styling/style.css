@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+/* color variable */
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+}
+
+/* navbar styling */
+#navbar-items{
+    gap: 30px;
+    font-size: larger;
+}
+#navbar{
+    padding: 0px 10px;
+    margin-right: 180px;
+}
+
+#main-logo{
+    width: 175px;
+    margin: 5px 0px 5px 190px;
+}
+.nav-link{
+    text-decoration: none;
+}
+#franchise{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-left: 70px;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#red{
+    color: var(--red);
+}
+#btn-icon{
+    padding: 5px 7px; 
+}
+
+#children-images{
+    gap: 30px;
+}
+.wlcm-text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+}
+.snp1{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 50px;
+    letter-spacing: 0px;
+}
+.branch-head{
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.b-1{
+    letter-spacing: 8px;
+    margin-top: 50px;
+    color: #f42625;
+}
+.snpb-1{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+.margintop-branchimg{
+    margin-top: 50px;
+}
+.big-font{
+    font-size: 45px;
+}
+.pdl{
+    padding-left: 250px;
+}
+#Direction1{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+.snp2{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 50px;
+    letter-spacing: 0px;
+    margin-top: 80px;
+}
+.eb-1{
+    font-size: 12px;
+    letter-spacing: 6px;
+    color: #f42625;
+}
+.snpeb-1{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 20px;
+}
+.gap{
+    gap: 180px;
+}
+.v-1{
+    letter-spacing: 8px;
+    margin-top: 50px;
+    color: #f42625;
+}
+.snpv-1{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+.small-font{
+    font-size: 30px;
+}
+#Direction2{
+    background-color: #008000;
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#white{
+    color: var(--white);
+}
+.box-1{
+    width: 350px;
+    height: 250px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    margin: 20px;
+    padding: 20px;
+}
+.foot-logo{
+    padding-top: 70px;
+    padding-left: 250px;
+}
+.foot-sidelinks{
+    padding-top: 95px;
+    padding-left: 80px;
+    font-size: 19px;
+}
+.foot-contact{
+    padding-top: 95px;
+    padding-left: 120px;
+    font-size: 19px;
+}
+.foot-follow{
+    padding-top: 87px;
+    padding-left: 120px;
+    font-size: 19px;
+}
+.letter-space{
+    letter-spacing: 1px;
+}
+.footicon{
+    background-color: #f42625;
+    font-size: 20px;
+}
+#btn-footicon{
+    padding: 10px 13px; 
+}
+.mb{
+    margin-bottom: 10px;
+}
+.border-bottom{
+    margin-top: 60px;
+    border-bottom: 1px solid lightgrey;
+}
