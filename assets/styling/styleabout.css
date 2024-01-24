@@ -109,6 +109,15 @@
     letter-spacing: 1px;
     margin-left: 30px;
 }
+.village-text{
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-left: 30px;
+}
+.v-textsubhead{
+    font-size: 14px;
+    padding-right: 170px;
+}
 .foot-logo{
     padding-top: 70px;
     padding-left: 250px;
