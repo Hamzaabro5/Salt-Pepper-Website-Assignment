@@ -21,7 +21,8 @@
     width: 175px;
     margin: 5px 0px 5px 190px;
 }
-.nav-link{
+.nav-link:hover{
+    color: #f42625;
     text-decoration: none;
 }
 #franchise{
@@ -101,7 +102,7 @@
     font-size: 20px;
 }
 .gap{
-    gap: 180px;
+    gap: 70px;
 }
 .v-1{
     letter-spacing: 8px;
@@ -133,6 +134,26 @@
     margin: 20px;
     padding: 20px;
 }
+.box{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #000000;
+}
+.exp-gap{
+    gap: 10px;
+}
+.snp-expfranch-text{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 20px;
+}
+.expfranch-text{
+    font-size: 22px;
+    letter-spacing: 1px;
+    padding: 5px;
+}
 .foot-logo{
     padding-top: 70px;
     padding-left: 250px;
@@ -140,12 +161,15 @@
 .foot-sidelinks{
     padding-top: 95px;
     padding-left: 80px;
-    font-size: 19px;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
 }
 .foot-contact{
     padding-top: 95px;
     padding-left: 120px;
-    font-size: 19px;
+    font-size: 16px;
 }
 .foot-follow{
     padding-top: 87px;

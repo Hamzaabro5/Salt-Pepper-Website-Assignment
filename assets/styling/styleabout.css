@@ -19,7 +19,8 @@
     width: 175px;
     margin: 5px 0px 5px 190px;
 }
-.nav-link{
+.nav-link:hover{
+    color: #f42625;
     text-decoration: none;
 }
 #franchise{
@@ -48,14 +49,14 @@
     font-size: 50px;
 }
 .intro-text{
-    font-size: 20px;
+    font-size: 18px;
     letter-spacing: 1px;
 }
 .rest-head{
     margin-top: 80px;
 }
 .rest-maintext{
-    font-size: 20px;
+    font-size: 18px;
     letter-spacing: 1px;
     margin-bottom: 50px;
 }
@@ -65,7 +66,7 @@
     letter-spacing: 0px;
 }
 .Rest-text{
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
 }
 .Rest-text2{
@@ -104,10 +105,17 @@
 .Express{
     margin-top: 80px;
 }
+.exp-head{
+    font-size: 40px;
+}
 .express-text{
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
-    margin-left: 30px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.express-img{
+    padding: 0px 15px;
 }
 .village-text{
     font-size: 18px;
@@ -118,6 +126,14 @@
     font-size: 14px;
     padding-right: 170px;
 }
+.v-1{
+    margin-top: 50px;
+    font-size: 12px;
+}
+.snpv-1{
+    font-family: 'Alfa Slab One', serif;
+    font-size: 30px;
+}
 .foot-logo{
     padding-top: 70px;
     padding-left: 250px;
@@ -125,12 +141,15 @@
 .foot-sidelinks{
     padding-top: 95px;
     padding-left: 80px;
-    font-size: 19px;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
 }
 .foot-contact{
     padding-top: 95px;
     padding-left: 120px;
-    font-size: 19px;
+    font-size: 16px;
 }
 .foot-follow{
     padding-top: 87px;
@@ -146,4 +165,7 @@
 }
 #btn-footicon{
     padding: 10px 13px; 
+}
+.big-font{
+    font-size: 40px;
 }
