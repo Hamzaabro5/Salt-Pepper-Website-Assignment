@@ -117,6 +117,23 @@
 .express-img{
     padding: 0px 15px;
 }
+.exp-cardhead{
+    margin-top: 50px;   
+    margin-bottom: 50px;   
+}
+.box{
+    width: 330px;
+    height: 420px;
+    background-color: #0f0f0f;
+    margin: 40px;
+}
+.box1-img{
+    width: 290px;
+    margin: 12px;
+}
+.cards-text{
+    font-size: 15px;
+}
 .village-text{
     font-size: 18px;
     letter-spacing: 1px;

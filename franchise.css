@@ -6,6 +6,7 @@
     --white:#ffffff;
     --black:#000000;
 }
+
 /* navbar styling */
 #navbar-items{
     gap: 30px;
@@ -15,6 +16,7 @@
     padding: 0px 10px;
     margin-right: 180px;
 }
+
 #main-logo{
     width: 175px;
     margin: 5px 0px 5px 190px;
